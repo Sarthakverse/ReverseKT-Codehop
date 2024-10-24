@@ -1,4 +1,4 @@
-![LoginSignupLogo](https://github.com/Sarthakverse/Jwt-Authentication-Authorization-for-SpringBoot-3.3.1/assets/117356021/bf5b6453-8614-4799-8753-c10edfe815a4)
+
 
 # Registration and Login
 - This backend application, developed using Spring Boot 3.3.0 and Spring Security 6.X.X.
