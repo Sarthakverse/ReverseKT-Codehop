@@ -11,7 +11,6 @@
 ## Demo and Documentation
 - [Demo video](https://youtu.be/_5enBVGXVXs)
 - [Postman Documentation](https://documenter.getpostman.com/view/29367403/2sA3XJnQvU#9e002b3b-973d-48cc-b006-28765454f76d)
-- [Swagger Documentation](https://jwt-authentication-authorization-for.onrender.com/swagger-ui/index.html)
 <a id="built-with"></a>
 ### Built With
 
@@ -23,14 +22,6 @@
 * [![Java Mail Sender](https://img.shields.io/badge/Mail-Java%20Mail%20Sender-blue)](https://javaee.github.io/javamail/)
 * ![Cron Job](https://img.shields.io/badge/Cron%20Job-Scheduled%20Task-orange)
 
-
-
-
-## Hosted Url
-To use the REST_APIs use this url
-```bash
-  https://jwt-authentication-authorization-for.onrender.com/
-```
 ## Importatant Depenedencies used in project
   - `spring-boot-starter-web`
   - `spring-boot-starter-data-jpa`
